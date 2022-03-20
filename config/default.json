@@ -1,0 +1,9 @@
+{
+    "jwtKey": "key",
+
+
+
+    
+ "mongoURL": "mongodb+srv://kskhan77:mansehra@cluster0.fzjbn.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
+
